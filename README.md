@@ -1,0 +1,2 @@
+# meteor-workshop
+Meteor workshop
